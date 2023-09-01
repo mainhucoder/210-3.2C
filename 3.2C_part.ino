@@ -1,0 +1,2 @@
+#define SECRET_SSID "air_7042140643"
+#define SECRET_PASSWORD "air93308"
